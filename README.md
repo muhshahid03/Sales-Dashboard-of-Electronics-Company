@@ -2,6 +2,10 @@
 
 ## 🚀 Project Overview  
 Excited to share my latest Power BI project: **"Sales Dashboard of XYZ Company 2021–2023"** – a dynamic, interactive dashboard designed to deliver deep insights into sales performance over the last three years.
+## 📸 Dashboard Previews
+
+### 🔹 Sales Overview Page
+![Sales Overview]("F:\All Projects\Dasboard.png")
 
 This project provides a comprehensive view of:
 - 📈 Revenue trends
@@ -48,9 +52,3 @@ This dashboard is built to:
 
 ---
 
-## 🌟 Screenshots  
-_Add screenshots of the dashboard pages here using the following syntax:_  
-```markdown
-![Sales Overview](screenshots/sales-overview.png)
-![Product Analysis](screenshots/product-analysis.png)
-![Regional Breakdown](screenshots/regional-sales.png)
